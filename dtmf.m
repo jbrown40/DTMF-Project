@@ -1,4 +1,4 @@
-% Jessica Brown, Maria Ali, Skylar Chatman
+% Jessica Brown
 % Digital Signal Processing
 % Methodology:
 %   We read in a 7 second recording and than we split it into 7 equal parts
